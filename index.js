@@ -30,7 +30,7 @@ ___
 <div id="installation"></div>
 
 ## **Installation Instructions**
-${installation}</div>
+${installation}
 
 ___
 
